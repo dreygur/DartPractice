@@ -14,7 +14,7 @@ void main() {
     callName(userInput);
   }
   else if (userInput == 'Honululu') {
-    var name = 'I am not aware of what I am douing';
+    var name = 'I am not aware of what I am doing';
     callName(name);
   } else {
     callName(name);
