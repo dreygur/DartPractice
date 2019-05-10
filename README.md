@@ -2,7 +2,7 @@
 <img title="Languages Used" src="https://badge.langauge.io/dreygur/DartPractise" />
 </p>
 
-# Dart Practise
+# Dart Practice
 > I have started Learning Google's new Programming language `Dart`.  Here stayes my learning practices...
 
 ```dart
